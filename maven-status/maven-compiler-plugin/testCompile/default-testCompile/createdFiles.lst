@@ -1,0 +1,7 @@
+pages\GooglePage.class
+base\TestConfig.class
+hooks\GoogleHooks.class
+SauceDemoTest.class
+RunCukesTest.class
+steps\GoogleSteps.class
+TestMain.class

@@ -1,0 +1,11 @@
+[ {
+  "uid" : "cdc4df2096012de8",
+  "name" : "Test2 of google home page",
+  "time" : {
+    "start" : 1653138996277,
+    "stop" : 1653139006984,
+    "duration" : 10707
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

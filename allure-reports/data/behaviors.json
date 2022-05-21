@@ -1,0 +1,25 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Sample google feature",
+    "children" : [ {
+      "name" : "Test2 of google home page",
+      "children" : [ {
+        "name" : "Test2 of google home page",
+        "uid" : "cdc4df2096012de8",
+        "parentUid" : "38161073e35a4babc86edacaa3290be0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653138996277,
+          "stop" : 1653139006984,
+          "duration" : 10707
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "38161073e35a4babc86edacaa3290be0"
+    } ],
+    "uid" : "d5df3b23ece2392b7b0f2176c428c904"
+  } ]
+}

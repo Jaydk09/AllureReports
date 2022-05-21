@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-RVT847I",
+    "children" : [ {
+      "name" : "14736@DESKTOP-RVT847I.main(1)",
+      "children" : [ {
+        "name" : "Test2 of google home page",
+        "uid" : "cdc4df2096012de8",
+        "parentUid" : "9804e2a5b441fcd0e258ef931d5b54a8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653138996277,
+          "stop" : 1653139006984,
+          "duration" : 10707
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9804e2a5b441fcd0e258ef931d5b54a8"
+    } ],
+    "uid" : "cab7946440daafbc3086f1d6d59544c4"
+  } ]
+}

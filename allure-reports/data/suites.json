@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Sample google feature",
+    "children" : [ {
+      "name" : "Test2 of google home page",
+      "uid" : "cdc4df2096012de8",
+      "parentUid" : "ba25f16660e1ee5f16fd786eee850a01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653138996277,
+        "stop" : 1653139006984,
+        "duration" : 10707
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ba25f16660e1ee5f16fd786eee850a01"
+  } ]
+}
